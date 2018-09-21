@@ -11,8 +11,6 @@
 ## 参考実装
 
 
-```
-
 ## リファレンス
 https://spring.io/guides/gs/spring-boot/
 
